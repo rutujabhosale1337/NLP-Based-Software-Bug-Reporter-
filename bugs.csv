@@ -1,0 +1,47 @@
+bug_description,bug_type,severity
+"Login button does not work",Functional,High
+"User cannot login with correct password",Functional,High
+"Login form does not submit",Functional,High
+"Application crashes when clicking login",Crash,Critical
+"App crashes after entering username",Crash,Critical
+"Application closes unexpectedly",Crash,Critical
+"System crashes when opening settings",Crash,Critical
+"Application freezes during startup",Crash,Critical
+"Button color is incorrect",UI,Low
+"Text overlaps on the screen",UI,Medium
+"Login page layout is broken",UI,Medium
+"Font size is too small",UI,Low
+"Images are not aligned correctly",UI,Low
+"Page takes too long to load",Performance,High
+"Application responds very slowly",Performance,High
+"Search takes several seconds to display results",Performance,Medium
+"Website becomes slow with many users",Performance,High
+"Database connection fails",Database,High
+"SQL error occurs while saving data",Database,Critical
+"Data is not stored in database",Database,High
+"Database query returns incorrect result",Database,High
+"Unauthorized user can access admin page",Security,Critical
+"Password is visible on login page",Security,High
+"Application allows access without authentication",Security,Critical
+"User session is not properly protected",Security,High
+"Page does not work on mobile device",Compatibility,Medium
+"Website layout breaks on tablet",Compatibility,Medium
+"Application works in Chrome but not Firefox",Compatibility,Medium
+"Feature does not work on mobile browser",Compatibility,Medium
+"Submit button does nothing",Functional,High
+"Logout functionality is not working",Functional,High
+"Reset password link does not work",Functional,High
+"User profile cannot be updated",Functional,Medium
+"Application crashes while uploading file",Crash,Critical
+"Program crashes when opening dashboard",Crash,Critical
+"Screen freezes after clicking submit",Crash,Critical
+"Incorrect spacing between buttons",UI,Low
+"Header overlaps with content",UI,Medium
+"Page loads very slowly",Performance,High
+"Server response is slow",Performance,High
+"Records are not inserted into database",Database,High
+"SQL exception appears on submitting form",Database,Critical
+"Sensitive information is exposed",Security,Critical
+"User can access another user's account",Security,Critical
+"Website is not responsive on mobile",Compatibility,Medium
+"Application is incompatible with Firefox",Compatibility,Medium

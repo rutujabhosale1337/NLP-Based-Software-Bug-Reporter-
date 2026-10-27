@@ -1,0 +1,19 @@
+bug_id,date,description,bug_type,severity,priority,developer_priority,keywords,duplicate_similarity,status
+BUG-5445,2026-10-02 09:48,"login craches
+",Functional,High,High,High,"login, craches",24.95,Resolved
+BUG-4266,2026-10-02 09:57,"unauthorise user accesing another user account
+",Security,Critical,High,Highest,"unauthorise, user, accesing, another, account",68.17,Resolved
+BUG-7514,2026-10-02 09:58,"SQL exception appears on submitting form
+",Database,Critical,High,High,"exception, appears, submitting, form",100.0,New
+BUG-2474,2026-10-02 10:07,error in ui,Database,Critical,High,High,error,28.7,New
+BUG-5504,2026-10-02 10:43,"issue in interface
+",Crash,High,High,High,"issue, interface",0.0,New
+BUG-3903,2026-10-02 10:48,"issue in login page
+",Security,High,High,High,"issue, login, page",40.34,New
+BUG-5008,2026-10-02 20:52,Issue in login button,Functional,High,High,High,"issue, login, button",50.16,New
+BUG-6285,2026-10-02 21:06,issue site,Crash,High,High,High,"issue, site",0.0,New
+BUG-1917,2026-10-02 21:07,issue in login,Functional,High,High,High,"issue, login",24.95,New
+BUG-3926,2026-10-02 22:29,issue in login,Functional,High,High,High,"issue, login",24.95,New
+BUG-5665,2026-10-02 22:29,issue in login,Functional,High,High,High,"issue, login",24.95,New
+BUG-4032,2026-10-05 09:51,website crash,Compatibility,High,High,High,"website, crash",31.64,Resolved
+BUG-8582,2026-10-05 11:51,issue in login,Functional,High,High,High,"issue, login",24.95,New
